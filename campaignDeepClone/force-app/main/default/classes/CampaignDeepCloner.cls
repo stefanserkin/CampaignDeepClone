@@ -1,3 +1,7 @@
+/*
+ * Created by Stefan Serkin on July 18, 2021
+ * */
+
 global class CampaignDeepCloner {
 
     @InvocableMethod(label='Clone Campaigns' description='Produces a list of cloned campaigns as sObjects' category='Campaign')

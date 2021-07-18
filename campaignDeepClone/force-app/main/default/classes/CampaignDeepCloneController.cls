@@ -1,3 +1,7 @@
+/*
+ * Created by Stefan Serkin on July 18, 2021
+ * */
+
 global with sharing class CampaignDeepCloneController {
     
     @InvocableMethod(label='Get Child Campaigns' description='Returns the list of child campaigns for a list of parents' category='Campaign')
